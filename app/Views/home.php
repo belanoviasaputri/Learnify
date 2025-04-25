@@ -8,14 +8,7 @@
   <?= view('header'); ?>
   <?= view('hero'); ?>
   <?= view('about'); ?>
-  <?= view('stats'); ?>
-  <?= view('services'); ?>
-  <?= view('appointment'); ?>
-  <?= view('departments'); ?>
-  <?= view('doctors'); ?>
   <?= view('faq'); ?>
-  <?= view('testimonials'); ?>
-  <?= view('gallery'); ?>
   <?= view('contact'); ?>
   <?= view('footer'); ?>
 

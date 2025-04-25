@@ -3,17 +3,14 @@
     <div class="container position-relative">
         <div class="welcome position-relative">
             <h2>WELCOME TO LEARNIFY</h2>
-            <p>We are team of talented designers making websites with Bootstrap</p>
+            <p>Learnify hadir sebagai sarana belajar interaktif untuk siswa, agar materi makin mudah dipahami dan menyenangkan.</p>
         </div><!-- End Welcome -->
 
         <div class="content row gy-4">
             <div class="col-lg-4 d-flex align-items-stretch">
                 <div class="why-box">
-                    <h3>Why Choose Medilab?</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.</p>
-                    <div class="text-center">
-                        <a href="#about" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
-                    </div>
+                    <h3>Why Choose Learnify?</h3>
+                    <p>Karena Learnify dirancang khusus untuk siswa dengan pendekatan pembelajaran yang interaktif, mudah diakses, dan sesuai dengan kebutuhan industri. Materi yang tersedia disusun secara sistematis agar siswa dapat belajar mandiri dengan lebih efektif.</p>
                 </div>
             </div><!-- End Why Box -->
 

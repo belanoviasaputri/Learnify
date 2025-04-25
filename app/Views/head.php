@@ -23,5 +23,5 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Main CSS File -->
-    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/main.css">
 </head>
