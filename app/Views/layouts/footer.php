@@ -3,8 +3,13 @@
         <a href="index.html" class="logo mb-2 d-inline-flex align-items-center" style="text-decoration: none;">
             <span class="sitename" style="font-size: 26px; font-weight: bold; color: #333;">Learnify</span>
         </a>
+<<<<<<< HEAD
         <p style="margin-top: 6px; margin-bottom: 4px; color: #777; font-size: 14px;">Universitas Lampung</p>
         <p style="margin-bottom: 12px; color: #777; font-size: 14px;">Phone: +1 5589 55488 55 | Email: learnify@gmail.com</p>
+=======
+        <p style="margin-top: 6px; margin-bottom: 4px; color: #777; font-size: 14px;">A108 Adam Street, New York, NY 535022</p>
+        <p style="margin-bottom: 12px; color: #777; font-size: 14px;">Phone: +1 5589 55488 55 | Email: info@example.com</p>
+>>>>>>> 36d42d8185ec359dc225b949e68a6e20e0fade75
 
         <ul class="footer-links list-unstyled d-flex justify-content-center" style="gap: 24px; padding: 0; margin-bottom: 10px;">
             <li><a href="/" style="color: #555; text-decoration: none; font-size: 14px;">Home</a></li>
